@@ -26,4 +26,4 @@ AWS Certified Developer – Associate · AWS Certified AI Practitioner · AWS Ce
 
 English (C2, EF SET 71/100) · Portuguese (native)
 
-[LinkedIn](https://www.linkedin.com/in/leodelmiro/)
+[leodelmiro.vercel.app](https://leodelmiro.vercel.app) · [LinkedIn](https://www.linkedin.com/in/leodelmiro/)
