@@ -20,7 +20,7 @@ I design and run distributed backend systems for high-scale financial platforms 
 
 ### Certifications
 
-AWS Certified Developer – Associate · AWS Certified AI Practitioner · GitHub Copilot (Microsoft)
+AWS Certified Developer – Associate · AWS Certified AI Practitioner · AWS Certified Cloud Practitioner · GitHub Copilot (Microsoft)
 
 ### Languages
 
