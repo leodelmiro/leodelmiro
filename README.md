@@ -20,6 +20,10 @@ I design and run distributed backend systems for high-scale financial platforms 
 
 ### Certifications
 
-AWS Certified Developer – Associate · AWS Certified AI Practitioner
+AWS Certified Developer – Associate · AWS Certified AI Practitioner · GitHub Copilot (Microsoft)
+
+### Languages
+
+English (C2, EF SET 71/100) · Portuguese (native)
 
 [LinkedIn](https://www.linkedin.com/in/leodelmiro/)
